@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Ads Interstitial Ads</string>
+
+    <string name="app_id">ca-app-pub-3940256099942544~3347511713</string>
+    <string name="interstitial_video_unit_id">ca-app-pub-3940256099942544/8691691433</string>
+    <string name="interstitial_unit_id">ca-app-pub-3940256099942544/1033173712</string>
+    <string name="banner_unit_id">ca-app-pub-3940256099942544/6300978111</string>
+
+</resources>
