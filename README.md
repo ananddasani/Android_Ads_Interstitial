@@ -1,6 +1,8 @@
 # Android_Ads_Interstitial
 Implementating Interstitial Ads in an Android App 
 
+This topic is a part of [My Complete Andorid Course](https://github.com/ananddasani/Android_Apps)
+
 # Code
 
 #### MainActivity.java
@@ -159,6 +161,8 @@ LOGS
 
 # App Highlight
 
-<img src="app_images/Ads Interstitial Code.png" width="1000" /><br>
+![Ads Interstitial App1](https://user-images.githubusercontent.com/74413402/192094300-db629cc7-1c64-443e-95f9-fd99ee333819.png)
+![Ads Interstitial App2](https://user-images.githubusercontent.com/74413402/192094303-f63c752e-a49b-4b3d-9e31-5b7dd739b0fd.png)
+![Ads Interstitial App3](https://user-images.githubusercontent.com/74413402/192094306-32518c42-d300-4076-94e9-7dd83f086ef8.png)
+![Ads Interstitial Code](https://user-images.githubusercontent.com/74413402/192094307-44a9a671-25dc-4306-b85c-2ad2502a34ba.png)
 
-<img src="app_images/Ads Interstitial App1.png" width="300" /> <img src="app_images/Ads Interstitial App2.png" width="300" /> <img src="app_images/Ads Interstitial App3.png" width="300" /> <br>
